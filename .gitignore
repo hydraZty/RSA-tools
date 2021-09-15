@@ -1,0 +1,12 @@
+# dependencies
+node_modules
+
+# logs & pids
+*.log
+pids
+
+# test output
+test/**/out
+.DS_Store
+.idea
+*.iml
